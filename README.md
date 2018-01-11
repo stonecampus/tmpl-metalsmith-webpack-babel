@@ -8,7 +8,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init stonecampus/tmpl-metalsmith-webpack my-project
+$ vue init stonecampus/tmpl-metalsmith-webpack-babel my-project
 $ cd my-project
 $ yarn || npm install
 ```
